@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "node_1_1",
+  "version": "1.0.0",
+  "description": "Task 1 driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/baglana/node_1_1.git"
+  },
+  "author": "baglana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baglana/node_1_1/issues"
+  },
+  "homepage": "https://github.com/baglana/node_1_1#readme",
+  "dependencies": {
+    "@baglana/node_1": "^1.0.0"
+  }
+}
